@@ -1,2 +1,2 @@
 # UnitySnippets
-Usefull Unity snippets for Game Development
+Useful Unity snippets for Game Development
